@@ -17,9 +17,9 @@ print("Tocando a música...")
 
 while True:
     print("-----------------------------------------------")
-    print("Press 'p' to pause the music")
-    print("Press 'r' to resume the music")
-    print("Press 'e' to exit the program")
+    print("Pressione P para Pausar.")
+    print("Pressione R para dar Play.")
+    print("Pressione E para sair.")
 
     userInput = input(" ")
 
