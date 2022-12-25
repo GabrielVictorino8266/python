@@ -99,3 +99,8 @@ frase3 = frase.split()
 print(' '.join(frase3))
 # Junta as papalvras separadas em listas e adiciona o caractere especificado anteriormente ao Join.
 
+
+# TESTES
+fraseTeste = "Curso em Vídeo Python"
+dividido = frase.split()
+print(dividido[2][3]) #Mostre na segunda palavra a terceira letra
