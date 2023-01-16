@@ -1,0 +1,24 @@
+Para esse desenvolvimento, o Python não 
+possui recursos integrados de desenvolvimento móvel, 
+mas existem pacotes que você pode usar para criar aplicativos móveis.
+
+Kivy e pyQt
+
+##Kivy(lançamento em 2011)
+Para esse desenvolvimento, o
+ Python não possui recursos integrados
+  de desenvolvimento móvel, mas existem 
+  pacotes que você pode usar para criar aplicativos móveis.
+
+##PyQt
+O PyQt não é tão amigável, 
+pois o Qt não é qualquer linguagem, mas 
+usa C++ como linguagem de programação, o 
+que torna o desenvolvimento um pouco complexo 
+no design da interface do usuário, porém é 
+rápido e ótimo ao ser usado no desenvolvimento 
+de aplicativos de desktop ou quaisquer aplicativos 
+que têm funcionalidades nativas como software de desktop.
+
+A ideia por trás de uma interface de Usuário Natural (NUI) é que ele possa aprender facilmente como usar seu software com pouca ou nenhuma instrução.
+
