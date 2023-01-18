@@ -16,7 +16,10 @@
 
 # format() with index
 
-meuTexto = "{2} é o meu nome, já a minha idade é {1} anos e eu peso {0} KG."
+from cores import *
+
+
+meuTexto = "\033[33m {0} é o meu nome, já a minha idade é {1} anos e eu peso {2} KG.\033[m"
 print(meuTexto.format('Gabriel', 18, 75.8))
 
 
