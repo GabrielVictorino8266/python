@@ -24,3 +24,19 @@ Exercício Python 038: Escreva um programa que leia dois números inteiros e com
 - O primeiro valor é maior
 - O segundo valor é maior
 - Não existe valor maior, os dois são iguais
+
+Exercício Python 039: Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora exata de se alistar ou se já passou do tempo do alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
+
+Exercício Python 040: Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
+
+- Média abaixo de 5.0: REPROVADO
+- Média entre 5.0 e 6.9: RECUPERAÇÃO
+- Média 7.0 ou superior: APROVADO
+
+Exercício Python 041: A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
+
+- Até 9 anos: MIRIM
+- Até 14 anos: INFANTIL
+- Até 19 anos: JÚNIOR
+- Até 25 anos: SÊNIOR
+- Acima de 25 anos: MASTER
