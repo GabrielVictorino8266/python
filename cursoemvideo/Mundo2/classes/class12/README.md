@@ -40,3 +40,26 @@ Exercício Python 041: A Confederação Nacional de Natação precisa de um prog
 - Até 19 anos: JÚNIOR
 - Até 25 anos: SÊNIOR
 - Acima de 25 anos: MASTER
+
+Exercício Python 042: Refaça o DESAFIO 035 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
+
+- EQUILÁTERO: todos os lados iguais
+- ISÓSCELES: dois lados iguais, um diferente
+- ESCALENO: todos os lados diferentes
+
+Exercício Python 043: Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu Índice de Massa Corporal (IMC) e mostre seu status, de acordo com a tabela abaixo:
+
+- IMC abaixo de 18,5: Abaixo do Peso
+- Entre 18,5 e 25: Peso Ideal
+- 25 até 30: Sobrepeso
+- 30 até 40: Obesidade
+- Acima de 40: Obesidade Mórbida
+
+Exercício Python 044: Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento:
+
+- à vista dinheiro/cheque: 10% de desconto
+- à vista no cartão: 5% de desconto
+- em até 2x no cartão: preço formal
+- 3x ou mais no cartão: 20% de juros
+
+Exercício Python 045: Crie um programa que faça o computador jogar Jokenpô com você.
